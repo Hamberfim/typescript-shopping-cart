@@ -1,2 +1,2 @@
 ### Typescript Shopping Cart
-Using TypeScript, React and Bootstrap.
+Using TypeScript, React and Bootstrap via Vite.
