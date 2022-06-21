@@ -1,1 +1,2 @@
-# typescript-shopping-cart
+### Typescript Shopping Cart
+Using TypeScript, React and Bootstrap.
