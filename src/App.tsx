@@ -1,5 +1,12 @@
+import { Routes, Route } from "react-router-dom";
+import { Container } from "react-bootstrap";
+
 function App() {
-  return <h1>PLACE HOLDER | HELLO</h1>;
+  return (
+    <Container>
+      <h2>HELLO | Placeholder</h2>
+    </Container>
+  );
 }
 
-export default App
+export default App;
