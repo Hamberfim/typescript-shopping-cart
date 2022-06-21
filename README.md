@@ -6,6 +6,6 @@
 npm create vite . <br />
 - react <br />
 - typescript <br />
-
+<br />
 npm i react-router-dom bootstrap react-bootstrap
 </sub>
