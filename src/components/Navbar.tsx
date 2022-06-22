@@ -7,7 +7,10 @@ export function Navbar() {
   return (
     <NavbarBs sticky="top" className="bg-white shadow-sm mb-3">
       <Container>
-        <Nav className="me-auto">
+        <NavbarBs.Brand className="fw-bold" style={{ fontFamily: "serif" }}>
+          Theanine Corp.
+        </NavbarBs.Brand>
+        <Nav className="ms-auto">
           <Nav.Link to="/" as={NavLink}>
             Home
           </Nav.Link>
@@ -21,7 +24,11 @@ export function Navbar() {
         {cartQuantity > 0 && (
           <Button
             onClick={openCart}
-            style={{ width: "2.5rem", height: "2.5rem", position: "relative" }}
+            style={{
+              width: "2.5rem",
+              height: "2.5rem",
+              position: "relative",
+            }}
             variant="outline-primary"
             className="rounded-circle"
           >

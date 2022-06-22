@@ -1,26 +1,50 @@
 [
   {
     "id": 1,
-    "name": "Book",
-    "price": 10.99,
-    "imgUrl": "/imgs/book.jpg"
+    "name": "Apples",
+    "price": 1.99,
+    "imgUrl": "/imgs/apples.jpg"
   },
   {
     "id": 2,
-    "name": "Computer",
-    "price": 1199.0,
-    "imgUrl": "/imgs/computer.jpg"
+    "name": "Frozen Pizza",
+    "price": 6.99,
+    "imgUrl": "/imgs/frozenPizza.jpg"
   },
   {
     "id": 3,
-    "name": "Banana",
-    "price": 1.05,
-    "imgUrl": "/imgs/banana.jpg"
+    "name": "Book",
+    "price": 12.99,
+    "imgUrl": "/imgs/book.jpg"
   },
   {
     "id": 4,
     "name": "Car",
-    "price": 14950.0,
+    "price": 9950.0,
     "imgUrl": "/imgs/car.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Cheese",
+    "price": 2.99,
+    "imgUrl": "/imgs/cheese.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Apple Pie",
+    "price": 10.99,
+    "imgUrl": "/imgs/applePie.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Computer",
+    "price": 1149.0,
+    "imgUrl": "/imgs/computer.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Banana",
+    "price": 1.05,
+    "imgUrl": "/imgs/banana.jpg"
   }
 ]
