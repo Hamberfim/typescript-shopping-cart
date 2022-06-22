@@ -7,7 +7,11 @@ export function Navbar() {
   return (
     <NavbarBs sticky="top" className="bg-white shadow-sm mb-3">
       <Container>
-        <NavbarBs.Brand className="fw-bold" style={{ fontFamily: "serif" }}>
+        <NavbarBs.Brand
+          href="/"
+          className="fw-bold"
+          style={{ fontFamily: "serif" }}
+        >
           Theanine Corp.
         </NavbarBs.Brand>
         <Nav className="ms-auto">
