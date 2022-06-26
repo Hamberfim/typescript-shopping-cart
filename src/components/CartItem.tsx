@@ -6,6 +6,7 @@ import { formatCurrency } from "../utilities/formatCurrency";
 type CartItemProps = {
   id: number;
   quantity: number;
+  key?: number;
 };
 
 export function CartItem({ id, quantity }: CartItemProps) {
