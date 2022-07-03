@@ -22,7 +22,7 @@ export function Home() {
             <div>
               <p>
                 The Shopping Corporation is a high-tech logistical firm
-                primarily focused on the production of low quality product as
+                primarily focused on the production of low quality product at
                 insanely cheep prices. We are based in Los Angeles and named
                 after its founder John Shopping.{" "}
               </p>
