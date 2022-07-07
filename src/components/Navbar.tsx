@@ -24,10 +24,7 @@ export function Navbar() {
           <Nav.Link to="/about" as={NavLink}>
             About
           </Nav.Link>
-          <Nav.Link
-            to="https://github.com/Hamberfim/typescript-shopping-cart"
-            target="_blank"
-          >
+          <Nav.Link to="/project" as={NavLink}>
             Project Repo
           </Nav.Link>
         </Nav>
