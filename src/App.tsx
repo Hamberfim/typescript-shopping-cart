@@ -8,8 +8,8 @@ import { ShoppingCartProvider } from "./context/ShoppingCartContext";
 
 function App() {
   return (
-    /* tag fragment so it will render everything to the screen */
-    <ShoppingCartProvider children={undefined}>
+    /* tage fragment so it will render everything to the screen */
+    <ShoppingCartProvider>
       <Navbar />
       <Container className="mb-4">
         <Routes>
