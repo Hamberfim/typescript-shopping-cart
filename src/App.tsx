@@ -17,11 +17,6 @@ function App() {
           <Route path="/" element={<Home />} />
           <Route path="/store" element={<Store />} />
           <Route path="/about" element={<About />} />
-          <Route
-            exact
-            path="https://github.com/Hamberfim/typescript-shopping-cart"
-            element={}
-          />
         </Routes>
       </Container>
     </ShoppingCartProvider>
