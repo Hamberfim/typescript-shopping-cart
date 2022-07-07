@@ -25,8 +25,12 @@ export function Navbar() {
             About
           </Nav.Link>
           <Nav.Link
-            to="https://github.com/Hamberfim/typescript-shopping-cart"
-            as={NavLink}
+            onClick={() =>
+              window.open(
+                "https://github.com/Hamberfim/typescript-shopping-cart",
+                "_blank"
+              )
+            }
           >
             Project Repo
           </Nav.Link>
