@@ -32,7 +32,7 @@ export function Navbar() {
               )
             }
           >
-            Project Repo
+            Repo
           </Nav.Link>
         </Nav>
         {cartQuantity > 0 && (
