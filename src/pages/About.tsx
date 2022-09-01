@@ -7,7 +7,7 @@ export function About() {
       <Container>
         <Row>
           <Col className="sm">
-            <h4 className="fw-bold">About the Theanine Shopping Corporation</h4>
+            <h4 className="fw-bold">About the Shopping Corporation</h4>
             <p className="lead fst-italic">Where we're just good enough.</p>
             <Image
               className="float-end ms-2 p-2"
