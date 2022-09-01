@@ -12,7 +12,7 @@ export function Navbar() {
           className="fw-bold"
           style={{ fontFamily: "serif" }}
         >
-          Theanine Corp.
+          Shopping Corp.
         </NavbarBs.Brand>
         <Nav className="ms-auto">
           <Nav.Link to="/" as={NavLink}>
