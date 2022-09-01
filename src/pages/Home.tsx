@@ -8,7 +8,7 @@ export function Home() {
         <Row>
           <Col className="sm">
             <h4 className="fw-bold">
-              Welcome to the Theanine Shopping Corporation
+              Welcome to the Shopping Corporation
             </h4>
             <p className="lead fst-italic">Where we're just good enough.</p>
             <Image
